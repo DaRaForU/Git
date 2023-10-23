@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "kh.edu.rupp.ite.testgit"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "kh.edu.rupp.ite.testgit"
